@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This year there are only 12 days of puzzles. I will be trying to solve all puzzles the same day they release. I won't have much time to participate since I work 8 to 10 hours a day. I'm excited to share my results here. I will push the code I make for the solutions and a write up after December fifteenth. This will be in the spirit of letting everyone come up with their own solutions first.
+This year there are only 12 days of puzzles. I will be trying to solve all puzzles the same day they release. I won't have much time to participate since I work 8 to 10 hours a day. I'm excited to share my results here. I will push the code I make for the solutions and a write up two days after the puzzle. This will be in the spirit of letting everyone come up with their own solutions first.
 
 ## Programming Language
 
